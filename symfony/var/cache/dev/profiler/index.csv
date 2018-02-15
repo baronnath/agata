@@ -1,0 +1,9 @@
+b4b654,::1,GET,http://localhost/agata/web/app_dev.php/login,1517668590,,200
+fc4808,::1,GET,http://localhost/agata/web/app_dev.php/,1517668599,,200
+7ee7a9,::1,GET,http://localhost/agata/web/app_dev.php/login,1517669736,,200
+8b461b,::1,POST,http://localhost/agata/web/app_dev.php/login_check,1517669754,,302
+ff022d,::1,GET,http://localhost/agata/web/app_dev.php/login,1517669754,,200
+5d031e,::1,GET,http://localhost/agata/web/app_dev.php/register,1517669765,,301
+84e142,::1,GET,http://localhost/agata/web/app_dev.php/register/,1517669767,,200
+cfbb5d,::1,POST,http://localhost/agata/web/app_dev.php/register/,1517669785,,302
+87958b,::1,GET,http://localhost/agata/web/app_dev.php/register/confirmed,1517669786,,200
